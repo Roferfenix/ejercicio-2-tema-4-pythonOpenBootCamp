@@ -1,0 +1,7 @@
+impar = 2
+
+while impar <= 8:
+    if impar % 2 != 0:
+       print ({impar},"El numero es impar")
+        
+    impar += 1
